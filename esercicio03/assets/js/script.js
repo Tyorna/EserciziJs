@@ -20,6 +20,7 @@ window.addEventListener('load', init);
 
 function init() {
     document.getElementById('risultato').innerHTML = '';
+    eventHandler();
 }
 
 //tipico script js.
